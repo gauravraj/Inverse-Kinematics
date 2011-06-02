@@ -1,0 +1,9 @@
+The basic objective of this project is that given a known arm configuration and goal position, the arm should successfully reach that position.
+To go about for the objective we will be using genetic algorithm approach. The basic objectives of the project are -
+1. Split module design separating the higher level intelligence from dynamixel driver.
+2. 6DOF basic arm manipulation.
+3. Simple yet accurate specification of the motor configuration for the dynamixel drivers.
+4. Use gazebo for simulation.
+5. Parallelization of GA code.
+6. Eliminate Singularity.
+7. Obstacle avoidance.
