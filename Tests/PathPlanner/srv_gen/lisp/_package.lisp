@@ -1,0 +1,10 @@
+(cl:defpackage PathPlanner-srv
+  (:use )
+  (:export
+   "CONFIGSERVICE"
+   "<CONFIGSERVICE-REQUEST>"
+   "CONFIGSERVICE-REQUEST"
+   "<CONFIGSERVICE-RESPONSE>"
+   "CONFIGSERVICE-RESPONSE"
+  ))
+
